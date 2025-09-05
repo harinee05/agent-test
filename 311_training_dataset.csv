@@ -1,0 +1,5 @@
+timestamp,user_description,bot_top_service_codes,bot_top_service_names,bot_top_scores,bot_top_descriptions,user_selected_code,user_selected_name,user_selected_description
+2025-09-04T17:39:51.222209,i want to say that your services are very nice,47|41,Utility Service|Compliments,0.341|0.317,Utility Service|Compliments,41,Compliments,Compliments
+2025-09-04T17:43:12.337737,I have a pothole near my driveway that I want to report,26|32|61,Pothole|Utility Watering Violations|A Water Leak?CALL 575-526-0500,0.658|0.354|0.35,Pothole|Utility Watering Violations|A Water Leak?CALL 575-526-0500,26,Pothole,Pothole
+2025-09-04T17:44:06.959533,water leak in my house,61|32,A Water Leak?CALL 575-526-0500|Utility Watering Violations,0.699|0.371,A Water Leak?CALL 575-526-0500|Utility Watering Violations,61,A Water Leak?CALL 575-526-0500,A Water Leak?CALL 575-526-0500
+2025-09-04T17:44:26.190192,graffitti in public ground,21|18,Graffiti|Repair/Maint (sidewalks),0.349|0.302,Graffiti|Repair/Maint (sidewalks),21,Graffiti,Graffiti
