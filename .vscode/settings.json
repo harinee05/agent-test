@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/44bcb857-f593-4318-b92c-5522eaac7d51/resourceGroups/CLC-CustomApps/providers/Microsoft.Web/sites/trainservicecode",
-    "appService.deploySubpath": "."
-}
